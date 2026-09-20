@@ -1,0 +1,6 @@
+{
+  "name": "Anopheles Morphology & Sex Differentiation EduInfo",
+  "description": "Medical parasitology interactive infographic and video lecture module detailing morphological differences between male and female Anopheles mosquitoes, highlighting wing markings, palpi length, and antennal structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
